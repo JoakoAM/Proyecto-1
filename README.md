@@ -1,2 +1,3 @@
-# Proyecto-1
-Primer proyecto aplicando HTML, JS y CSS
+Este es el primer proyecto que hice (Consiente, ya que QRAssist recuerdo usar mucha IA).
+
+Aun me falta completarlo pero quise subirlo :P
